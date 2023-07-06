@@ -21,7 +21,6 @@ from django.conf.urls.static import static
 from django.views.decorators.csrf import csrf_exempt
 from graphene_django.views import GraphQLView
 from graph_api.api import schema
-from naturals_bridal_be.settings import get_bool_from_env
 
 
 # django admin customization settings
