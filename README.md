@@ -4,7 +4,7 @@ Create a new Django project
 - ------------------------------------------------------ 
 
 ```
- django-admin startproject --template=https://gitlab.com/deepsensedigital/django-starter-template/-/archive/master/django-starter-template-master.zip --extension=py,env-sample,yml,conf {{project_name}}
+ django-admin startproject --template=https://gitlab.com/samyabeshv/django-boilerplate/-/archive/main/django-starter-template-main.zip --extension=py,env-sample,yml,conf {{project_name}}
 ```
 
 - ------------------------------------------------------ 
